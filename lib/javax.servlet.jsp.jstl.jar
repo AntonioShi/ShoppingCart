@@ -1,0 +1,29 @@
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312" /> 
+<title></title> 
+</head> 
+<body> 
+<!--Dr.COMWebLoginID_0.htm-->
+<script type="text/javascript"> 
+sv=1;sv1=0;v6='http://[2001:da8:a2:700::11]:9002/v6                    ';myv6ip='                                       ';v4serip='192.168.252.254';m46=0;v46ip='172.24.72.19'                           ;
+vid=0   ;mip=172024072019;Gno=0000;vlanid="0"   ;AC="";                          ipm="c0a8fcfe";ss1="0010f36790ca";ss2="0000";ss3="ac184813";ss4="000000000000";ss5="172.24.72.19"   ;ss6="192.168.252.254";timet=1525764071; 
+osele=0;//1=不弹窗
+domain='[2001:da8:a2:700::11]';// ///////////////////////
+zxopt=0;//1为普通，8为直通(需201606后的内核)
+hidm=0,hidn=0;/////	
+aolno=8823;///////
+Gno=00;UID='12345678901234567890123456';m=1;UL='http://download.jetbrains.com/idea/j2ee_libs/JavaEE/6/javax.servlet.jsp.jstl.jar                                                                                                                        ';mcode="FFFF";
+
+portalid='GD0300370_000';//门户ID
+portalname='东莞理工学院';//门户名称
+
+//location.href="http://172.31.252.71/a79.htm";
+location.href="http://172.31.252.71/a79.htm?id=1000&rid="+ipm+"&vlanid=7&rid1="+ss1+"&session="+ss3+"-"+ss4+"-"+ss2+"&mac="+ss4+"&wlanuserip="+ss5+"&wlanacip="+ss6+"&wlanacname=drcom&ssid=drcom2&areaID=beijing&NASID=1234001010000460&redirect="+UL;
+
+</script> 
+
+<div>您的设备已经禁止JAVASCRIPT<br>
+     请点击<a href="http://172.31.252.71/a79.htm">这里</a>进入</div>
+</body> 
+</html>
